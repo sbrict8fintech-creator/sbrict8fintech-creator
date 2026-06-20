@@ -1,28 +1,33 @@
-<h1 align="center">Hi, I'm Sachith 👋</h1>
+<h1 align="center">Sachith</h1>
 <p align="center">
-  20 y/o · Aspiring Quantitative Researcher<br>
-  Applicant, B.B.Mgt (Hons) Financial Engineering — University of Kelaniya, Sri Lanka<br>
-  Self-taught in Python & C++ · Building everything from first principles
+  Sri Lanka · 20 · Aspiring Quantitative Researcher<br>
+  Learning Python & C++ from first principles — no shortcuts, no black boxes
 </p>
 
 ---
 
-## 📍 Where I Am
+## 🎯 Goal
 
-Early-stage, self-directed. No formal CS/quant background yet — learning through YouTube, building small projects from scratch, and treating every gap I find as the next thing to fix. Slow progress, but everything in my repos is genuinely mine, written and debugged by hand.
+Quant Research / Development. Long-term: deep capital markets fluency, a Master's, a PhD, and a career built on actual understanding rather than borrowed tools.
 
-## 🛠 What I Build
+## 🔧 What I'm Building
 
-- **Pure Python, no libraries** — IRR, annuity factors, portfolio variance, Sharpe ratio, efficient frontier, basic statistics — built from first principles to actually understand the math, not just call a function
-- **C++ fundamentals** — learning low-level programming for future production-grade systems
-- Philosophy: understand the mechanism before reaching for the abstraction
+Rebuilding the core toolkit of quantitative finance from scratch in pure Python — no libraries, no shortcuts:
 
-## 📚 Self-Study Roadmap
+- Sharpe ratio · IRR · Annuity factors · Portfolio variance · Efficient frontier · Core statistics
 
-- **Math:** Probability & Statistics → Calculus → Linear Algebra → Stochastic Calculus
-- **Certifications:** FRM (planned, during university)
-- **Languages:** Python (beginner→intermediate), C++ (beginner)
+Currently extending into C++ for the low-level systems work production trading requires.
 
-## 🎯 Direction
+## 📚 Studying
 
-Quant Researcher / Developer, aiming for strong capital markets fluency and eventually a Master's (NUS / NTU / LSE / Imperial) and PhD. Long road from here to there — this repo is the paper trail of closing that gap.
+- **Now:** Python, C++ fundamentals, Probability & Statistics
+- **Next:** Calculus, Linear Algebra, FRM
+- **Background:** B.B.Mgt (Hons) Financial Engineering — University of Kelaniya (applicant)
+
+## 🧭 Philosophy
+
+Every tool in this repo is mine — written and debugged by hand, not assembled from libraries. I'd rather understand *why* something works than just call a function that does it.
+
+---
+
+⭐ *Early in the journey. Watch this space.*
